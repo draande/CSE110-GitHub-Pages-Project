@@ -7,7 +7,7 @@ I'm a Computer Science student with a vested interest in building efficient, sca
 ## Technical Skills
 
 * Languages: C++, Python, Java, HTML, JavaScript
-* Concepts: Data Structures, Algorithms, Object-Oriented Programmings.
+* Concepts: Data Structures, Algorithms, Object-Oriented Programming
 * Tools: Git, GitHub, VS Code, ReactJS, Pandas
   
 ## Interests
