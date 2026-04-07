@@ -2,7 +2,9 @@
 
 ## About Me
 
-I'm a Computer Science student with a vested interest in building efficient, scalable frameworks. I love working on projects that challenge my problem-solving skills and push me to learn new technologies. I love Robotics, Cybersecurity, and Embedded Systems. I was even in my Robotics Club in Community College, where I mainly designed and built robots, programmed microcontrollers, and troubleshooted hardware/software issues.
+My favorite programming language is C++!
+
+I'm a Computer Science student with a vested interest in building efficient, scalable frameworks. I love working on projects that challenge my problem-solving skills and push me to learn new technologies. I love Robotics, Cybersecurity, and Embedded Systems. I was even in my Robotics Club in Community College, where I mainly designed and built robots, programmed microcontrollers, and troubleshooted hardware/software issues. 
 
 ## Technical Skills
 
