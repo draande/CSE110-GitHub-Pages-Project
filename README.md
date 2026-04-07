@@ -1,6 +1,4 @@
-# CSE110-HemendraAnde-GItHub-Page-Project
-
-# Hello, I'm Hemendra Ande !! :)
+# Venkata Hemendra Ande's User Page!
 
 ## About Me
 
