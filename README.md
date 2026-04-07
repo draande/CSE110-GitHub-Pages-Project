@@ -1,6 +1,4 @@
-# CSE110-HemendraAnde-GItHub-Page-Project
-
-# Hello, I'm Hemendra Ande !! :)
+# Venkata Hemendra Ande's User Page!
 
 ## About Me
 
@@ -9,7 +7,7 @@ I'm a Computer Science student with a vested interest in building efficient, sca
 ## Technical Skills
 
 * Languages: C++, Python, Java, HTML, JavaScript
-* Concepts: Data Structures, Algorithms, Object-Oriented Programming
+* Concepts: Data Structures, Algorithms, Object-Oriented Programmings.
 * Tools: Git, GitHub, VS Code, ReactJS, Pandas
   
 ## Interests
