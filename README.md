@@ -1,3 +1,3 @@
 # Venkata Hemendra Ande's User Page!
 
-https://github.com/draande/CSE110-GitHub-Pages-Project
+https://draande.github.io/CSE110-GitHub-Pages-Project/
